@@ -25,7 +25,7 @@ Ensure you have Python installed on your local system[cite: 1]. You will need to
 ```bash
 pip install pandas matplotlib seaborn jupyter
 
-* 2. Execution : 
-*1.clone or download this repository to your local machine.
-*2.Open your terminal or command prompt, navigate to the project directory, and launch the Jupyter environment:jupyter notebook
-*3.Open your notebook file from the Jupyter dashboard and run the cells sequentially to observe the data pipeline and visualizations.
+### 2.Execution : 
+1.clone or download this repository to your local machine.
+2.Open your terminal or command prompt, navigate to the project directory, and launch the Jupyter environment:jupyter notebook
+3.Open your notebook file from the Jupyter dashboard and run the cells sequentially to observe the data pipeline and visualizations.
